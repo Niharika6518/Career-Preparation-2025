@@ -1,7 +1,7 @@
 #  Niharika Sharma - Career Preparation Repository
 
-** MSc Advanced Computer Science | University of Liverpool (2024–2025)**  
-** Aspiring AI & Cloud Developer | Focused on practical learning & real-world projects**
+ MSc Advanced Computer Science | University of Liverpool (2024–2025)  
+ Aspiring AI & Cloud Developer | Focused on practical learning & real-world projects
 
 ---
 
